@@ -18,3 +18,7 @@ Code and paper for TD3: https://github.com/sfujim/TD3
 # End result:
 
 ![](https://github.com/PieterES/Flappy_TD3/blob/main/Flappy_4.gif)
+
+# Harder Difficulty:
+
+![](https://github.com/PieterES/Flappy_TD3/blob/main/Flappy_5.gif)
